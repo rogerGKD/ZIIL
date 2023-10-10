@@ -68,7 +68,7 @@ typedef struct Nome{
     int letra;
     int contador;
     bool mouse;
-}Nome;*/
+}Nome;
 
 typedef struct Menu{
     Font font;
