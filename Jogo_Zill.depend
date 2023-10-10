@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1693612823 source:c:\users\roger\documents\zill\jogo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"raylib.h"
+	<string.h>
+
+1693689882 source:c:\jogo\zill-main\zill-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"raylib.h"
+	<string.h>
+
+1693927121 source:c:\users\roger\documents\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"raylib.h"
+	<string.h>
+
+1696529137 source:c:\users\roger\documents\jogo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"raylib.h"
+	<string.h>
+
